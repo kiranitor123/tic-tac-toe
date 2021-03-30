@@ -17,12 +17,14 @@ describe 'Board' do
       expect(board.cell_grid[2][2]).to have_attributes(mark: '')
     end
   end
+
   describe 'set_value_grid?' do
     it 'Checking for setting a value in a grid' do
       board = Board.new
       expect(board.set_value_grid?(5, 'X')).to be true
     end
   end
+  
   describe 'get_cell_value' do
     it 'Checking for getting a value in a grid' do
       board = Board.new

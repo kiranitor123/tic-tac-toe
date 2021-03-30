@@ -10,6 +10,7 @@ describe Player do
       expect(player.mark).to eql('X')
     end
   end
+  
   describe 'add_move' do
     it 'checking for the player move' do
       player = Player.new('Diego', 'X')
