@@ -34,6 +34,7 @@ of a grid of nine squares" (Oxford Dictionary).
 ## Live Demo
 
 ![Live Demo Link](./assets/tictactoe_livedemo.gif)
+Replit: [replit](https://replit.com/join/kkzmhedu-rolandodiegodie)
 
 ## Getting Started
 
@@ -58,9 +59,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@FrancisUloko](https://github.com/francisuloko)
-- Twitter: [@FrancisUloko](https://twitter.com/FrancisUloko)
-- LinkedIn: [Francis Uloko](https://linkedin.com/in/francisuloko)
+- GitHub: [@errea](https://github.com/errea)
+- Twitter: [@Erreakey](https://twitter.com/Erreakay)
+- LinkedIn: [Eri-Ngozi](https://www.linkedin.com/in/eri-ngozi-okereafor/)
 
 👤 **Author2**
 
@@ -72,7 +73,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/francisuloko/tic-tac-toe/issues).
+Feel free to check the [issues page](https://github.com/kiranitor123/tic-tac-toe/issues).
 
 ## Show your support
 
